@@ -1,0 +1,11 @@
+host,ip,so
+srv-web01,192.168.0.10,Ubuntu 22.04
+srv-db01,192.168.0.11,Debian 12
+pentest01,192.168.0.20,Kali Linux 2024.1
+estacao-rh,192.168.0.30,Windows 11
+estacao-fin,192.168.0.31,Windows 10
+srv-ad01,192.168.0.5,Windows Server 2022
+srv-app02,192.168.0.12,Rocky Linux 9
+mac-design,192.168.0.40,macOS Sonoma
+srv-legacy,192.168.0.50,CentOS 7
+pentest02,192.168.0.21,Kali Linux 2023.4

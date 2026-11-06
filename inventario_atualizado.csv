@@ -1,0 +1,11 @@
+host,ip,so,criticidade,status,data_auditoria,risco
+srv-web01,192.168.0.10,Ubuntu 22.04,Baixa,Em Monitoramento,06/11/2026,2
+srv-db01,192.168.0.11,Debian 12,Baixa,Em Monitoramento,06/11/2026,2
+pentest01,192.168.0.20,Kali Linux 2024.1,Alta,Em Monitoramento,06/11/2026,9
+estacao-rh,192.168.0.30,Windows 11,Media,Online,06/11/2026,5
+estacao-fin,192.168.0.31,Windows 10,Media,Online,06/11/2026,5
+srv-ad01,192.168.0.5,Windows Server 2022,Media,Online,06/11/2026,5
+srv-app02,192.168.0.12,Rocky Linux 9,Baixa,Em Monitoramento,06/11/2026,2
+mac-design,192.168.0.40,macOS Sonoma,Media,Nao Definido,06/11/2026,5
+srv-legacy,192.168.0.50,CentOS 7,Media,Em Monitoramento,06/11/2026,5
+pentest02,192.168.0.21,Kali Linux 2023.4,Alta,Em Monitoramento,06/11/2026,9
